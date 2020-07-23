@@ -89,10 +89,10 @@ Then the content should be unique and reflect the skills and personality of the 
 ............................................
 Number and name of feature: ________________________________
 
-Estimate of time needed to complete: ___2.5 hrs__
+Estimate of time needed to complete: ___1.5 hrs__
 
-Start time: __3___
+Start time: __3.15___
 
-Finish time: _____
+Finish time: __4.30___
 
-Actual time needed to complete: _____
+Actual time needed to complete: ___1.25__
